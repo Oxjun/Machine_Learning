@@ -2,6 +2,29 @@
 
 Repository ini berisi kumpulan proyek Machine Learning yang dikerjakan menggunakan Python. Proyek mencakup proses pengolahan data, eksplorasi data, pembangunan model Machine Learning, evaluasi model, hingga implementasi model untuk melakukan prediksi.
 
+## 📁 Struktur Repository
+
+```text
+Machine_Learning/
+├── Latihan_house-prices/
+│   ├── content/
+│   └── Latihan.ipynb
+│
+├── Tugas_car-prices/
+│   ├── content/
+│   │   ├── train.csv
+│   │   └── test.csv
+│   ├── data.json
+│   ├── gbr_model.joblib
+│   ├── gbr_model.pkl
+│   ├── testing_deploy.py
+│   └── Tugas_car-prices.ipynb
+│
+├── .gitignore
+└── README.md
+```
+**Catatan:** Folder `.venv` tidak disertakan dalam repository karena telah diatur dalam `.gitignore`. Virtual environment dan library dapat dibuat atau diinstal kembali pada komputer pengguna.
+
 ## 📁 Daftar Proyek
 
 ### 1. Tugas Car Prices Prediction
