@@ -102,7 +102,7 @@ Proyek ini berisi latihan pengolahan dan eksplorasi dataset harga rumah mengguna
 
 File dan tahapan yang tersedia dapat dilihat pada folder `Latihan_house-prices/`.
 
-**Tools yang digunakan**
+**Tools yang digunakan:**
 
 Teknologi dan tools yang digunakan dalam repository ini meliputi:
 
