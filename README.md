@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning 
 
 Repository ini berisi kumpulan proyek Machine Learning yang dikerjakan menggunakan Python. Proyek mencakup proses pengolahan data, eksplorasi data, pembangunan model Machine Learning, evaluasi model, hingga implementasi model untuk melakukan prediksi.
 
