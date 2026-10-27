@@ -97,16 +97,19 @@ Berdasarkan ketiga metrik tersebut, **Gradient Boosting Regressor merupakan mode
 
 #### Referensi Evaluasi Model
 
-Referensi berikut digunakan untuk memahami metrik evaluasi regresi serta metode Gradient Boosting yang diterapkan dalam proyek ini.
+Referensi ini digunakan sebagai landasan teori untuk memahami evaluasi model regresi, pemilihan model Machine Learning, serta metode Gradient Boosting Regressor.
 
-1. [Scikit-learn — Model Evaluation](https://github.com/scikit-learn/scikit-learn/blob/main/doc/modules/model_evaluation.rst)  
-   Dokumentasi mengenai metrik evaluasi model, termasuk MAE, MSE, dan R².
+1. **Emmert-Streib, F., & Dehmer, M. (2019).** *Evaluation of Regression Models: Model Assessment, Model Selection and Generalization Error.* Machine Learning and Knowledge Extraction, 1(1), 521–551.  
+   DOI: https://doi.org/10.3390/make1010032  
+   Relevansi: Membahas evaluasi dan pemilihan model regresi, generalization error, serta metode untuk menilai performa model.
 
-2. [Scikit-learn — Gradient Boosting Regression Example](https://github.com/scikit-learn/scikit-learn/blob/main/examples/ensemble/plot_gradient_boosting_regression.py)  
-   Contoh penerapan Gradient Boosting untuk masalah regresi.
+2. **Chicco, D., Warrens, M. J., & Jurman, G. (2021).** *The coefficient of determination R-squared is more informative than SMAPE, MAE, MAPE, MSE and RMSE in regression analysis evaluation.* PeerJ Computer Science, 7, e623.  
+   DOI: https://doi.org/10.7717/peerj-cs.623  
+   Relevansi: Membahas perbandingan metrik evaluasi regresi, termasuk MAE, MSE, dan R², serta interpretasi hasil evaluasinya.
 
-3. [Scikit-learn — Gradient Boosting Tests](https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/ensemble/tests/test_gradient_boosting.py)  
-   Kumpulan pengujian untuk implementasi Gradient Boosting di scikit-learn.
+3. **Friedman, J. H. (2001).** *Greedy function approximation: A gradient boosting machine.* The Annals of Statistics, 29(5), 1189–1232.  
+   DOI: https://doi.org/10.1214/aos/1013203451  
+   Relevansi: Menjelaskan dasar metode Gradient Boosting yang berkaitan dengan model terbaik pada proyek prediksi harga mobil ini.
 
 #### Deployment Model
 
